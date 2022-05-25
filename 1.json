@@ -20,9 +20,9 @@
     {"title":"新浪资源","api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","datatype":"json","search":false},
     {"title":"神速资源","api":"https://api.sszyapi.com/api.php/provide/vod/","datatype":"json","search":false},
     {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"段友资源","api":"https://tg.kk2tv.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"LIBVIO资源","api":"https://www.libvio.com/api.php/provide/vod/","datatype":"json","search":true}, 
+    {"title":"段友资源","api":"http://yinliub.cn/lvdou_api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"LIBVIO资源","api":"http://www.zzrhgg.com/api.php/provide/vod/","datatype":"json","search":true}, 
     {"title":"北川资源","api":"https://www.bcwzg.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"77资源","api":"https://kanju77.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"555资源","api":"https://www.555dy1.com/api.php/provide/vod/","datatype":"json","search":true}
+    {"title":"77资源","api":"http://api.kunyu77.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"天空资源","api":"http://api.tiankongapi.com/api.php/provide/vod/","datatype":"json","search":true}
 ]
