@@ -23,6 +23,6 @@
     {"title":"友播资源","api":"https://www.youbotv.cn/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"LIBVIO资源","api":"http://www.zzrhgg.com/api.php/provide/vod/","datatype":"json","search":true}, 
     {"title":"北川资源","api":"https://www.bcwzg.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"77资源","api":"https://gfzycj.hnmj.vip/api.php/provide/vod/","datatype":"json","search":true,"jx":"https://jx.parwix.com:4433/player/?url="},
+    {"title":"77资源","api":"http://www.huamaotv.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"天空资源","api":"http://123.250idc.com/mogai_api.php/v1.vod/","datatype":"json","search":true}
 ]
