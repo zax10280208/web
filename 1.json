@@ -24,5 +24,5 @@
     {"title":"LIBVIO资源","api":"http://www.zzrhgg.com/api.php/provide/vod/","datatype":"json","search":true}, 
     {"title":"北川资源","api":"https://www.bcwzg.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"77资源","api":"http://api.kunyu77.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"天空资源","api":"http://api.tiankongapi.com/api.php/provide/vod/","datatype":"json","search":true}
+    {"title":"天空资源","api":"http://123.250idc.com/mogai_api.php/provide/vod/","datatype":"json","search":true}
 ]
