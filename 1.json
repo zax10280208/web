@@ -19,5 +19,9 @@
     {"title":"光速资源","api":"https://api.guangsuapi.com/api.php/provide/vod/","datatype":"xml","search":false},
     {"title":"新浪资源","api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","datatype":"json","search":false},
     {"title":"神速资源","api":"https://api.sszyapi.com/api.php/provide/vod/","datatype":"json","search":false},
-    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":false}
+    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"段友资源","api":"http://shangjihuoke.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"饭团资源","api":"http://television.wkfile.com/api.php/provide/vod/","datatype":"json","search":true}, 
+    {"title":"北川资源","api":"https://www.bcwzg.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"90资源","api":"http://zy.yilans.net:8090/api.php/provide/vod/","datatype":"json","search":true}
 ]
