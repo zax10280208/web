@@ -19,4 +19,13 @@
     {"title":"光速资源","api":"https://api.guangsuapi.com/api.php/provide/vod/","datatype":"xml","search":false},
     {"title":"新浪资源","api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","datatype":"json","search":false},
     {"title":"神速资源","api":"https://api.sszyapi.com/api.php/provide/vod/","datatype":"json","search":false}
+    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":false}
+   
+//{"name":"丝袜资源","url":"https://siwazyw.cc/api.php"},
+//{"name":"秀色资源","url":"https://api.xiuseapi.com/api.php"},
+//{"name":"探探资源","url":"https://apittzy.com/api.php"},
+//{"name":"色窝资源","url":"https://sewozyapi.com/api.php"},
+//{"name":"浪潮资源","url":"http://langchaozy6.com/api.php"},
+//{"name":"速播资源","url":"https://api.suboapi.com/api.php"},
+//{"name":"酷豆资源","url":"https://kudouzy.com/api.php"},
 ]
