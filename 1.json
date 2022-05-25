@@ -21,8 +21,12 @@
     {"title":"神速资源","api":"https://api.sszyapi.com/api.php/provide/vod/","datatype":"json","search":false},
     {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"友播资源","api":"https://shayuapi.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"LIBVIO资源","api":"http://zy.zcocc.com/api.php/provide/vod/","datatype":"json","search":true}, 
+    {"title":"一拳资源","api":"http://47.97.68.224/api.php/provide/vod/","datatype":"json","search":true}, 
     {"title":"北川资源","api":"https://www.bcwzg.com/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"77资源","api":"https://www.39kan.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"猫咪资源","api":"http://xiaomaomi.cc/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"0TV资源","api":"https://v.ini0.com/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"佩奇资源","api":"https://www.peiqi.tv/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"51资源","api":"http://www.51kanju.cn/api.php/provide/vod/","datatype":"json","search":true},
+    {"title":"荣耀资源","api":"http://app.lmvideos.cn/api.php/v1.vod","datatype":"json","search":true},
     {"title":"天空资源","api":"http://dy.51isu.com:11801/api.php/provide/vod/","datatype":"json","search":true}
 ]
