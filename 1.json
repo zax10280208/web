@@ -22,7 +22,5 @@
     {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"友播资源","api":"https://shayuapi.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"一拳资源","api":"http://47.97.68.224/api.php/provide/vod/","datatype":"json","search":true},
-    {"title":"人人资源","api":"https://kuu.renrenmi.cc/api.php/provide/vod/","datatype":"json","search":true,"playUrl": "https://jx.renrenmi.cc/?url="},
-    {"title":"喵派对资源","api":"https://www.neenl.com/api.php/provide/vod/","datatype":"json","search":true,"playUrl": "https://jx.renrenmi.cc/?url="},
     {"title":"北川资源","api":"https://www.bcwzg.com/api.php/provide/vod/","datatype":"json","search":true}
 ]
